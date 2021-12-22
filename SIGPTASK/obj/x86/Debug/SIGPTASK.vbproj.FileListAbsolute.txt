@@ -1,0 +1,82 @@
+G:\PROGRAMA HECHO EN VISUAL 2010\PROYECTO FINAL\SIGPTASK\SIGPTASK\bin\Debug\SIGPTASK.exe.config
+G:\PROGRAMA HECHO EN VISUAL 2010\PROYECTO FINAL\SIGPTASK\SIGPTASK\bin\Debug\SIGPTASK.exe
+G:\PROGRAMA HECHO EN VISUAL 2010\PROYECTO FINAL\SIGPTASK\SIGPTASK\bin\Debug\SIGPTASK.pdb
+G:\PROGRAMA HECHO EN VISUAL 2010\PROYECTO FINAL\SIGPTASK\SIGPTASK\bin\Debug\SIGPTASK.xml
+G:\PROGRAMA HECHO EN VISUAL 2010\PROYECTO FINAL\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.PanelPreguntaAccion.resources
+G:\PROGRAMA HECHO EN VISUAL 2010\PROYECTO FINAL\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaAgregarSucursal.resources
+G:\PROGRAMA HECHO EN VISUAL 2010\PROYECTO FINAL\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaCuestionario.resources
+G:\PROGRAMA HECHO EN VISUAL 2010\PROYECTO FINAL\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaLogin.resources
+G:\PROGRAMA HECHO EN VISUAL 2010\PROYECTO FINAL\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.Resources.resources
+G:\PROGRAMA HECHO EN VISUAL 2010\PROYECTO FINAL\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaMenuPricipal.resources
+G:\PROGRAMA HECHO EN VISUAL 2010\PROYECTO FINAL\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaNuevaSucursal.resources
+G:\PROGRAMA HECHO EN VISUAL 2010\PROYECTO FINAL\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.vbproj.GenerateResource.Cache
+G:\PROGRAMA HECHO EN VISUAL 2010\PROYECTO FINAL\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.exe
+G:\PROGRAMA HECHO EN VISUAL 2010\PROYECTO FINAL\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.xml
+G:\PROGRAMA HECHO EN VISUAL 2010\PROYECTO FINAL\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.pdb
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\bin\Debug\SIGPTASK.exe.config
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\bin\Debug\SIGPTASK.exe
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\bin\Debug\SIGPTASK.pdb
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\bin\Debug\SIGPTASK.xml
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaAgregoRiesgo.resources
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaCargoObjeto.resources
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaCargoAccion.resources
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.PanelUbicacionValida.resources
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.PanelInventario.resources
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.PanelRiesgoUbicacion.resources
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaCargoPregunta.resources
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaAccionesPreguntasObjetosYRiesgos.resources
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaNuevoMapaRiesgo.resources
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaRiesgoMapa.resources
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaInventario.resources
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.PanelPreguntaAccion.resources
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaAgregarEmpresa.resources
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaCuestionario.resources
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaLogin.resources
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.Resources.resources
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaMapaRiesgo.resources
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaMenuPricipal.resources
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaNuevaSucursal.resources
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.vbproj.GenerateResource.Cache
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.exe
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.xml
+E:\EL AÑO ESTA ACA\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.pdb
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\bin\Debug\SIGPTASK.exe.config
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\bin\Debug\SIGPTASK.exe
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\bin\Debug\SIGPTASK.pdb
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\bin\Debug\SIGPTASK.xml
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaConfirmacionBorrado.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.PanelControlCumplimiento.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.PanelIncidenciaDetalle.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.PanelRiesgo.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaPrecargarInsumosPreguntasAccionesRiesgos.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaControlCumplimiento.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaMuestoMapaRiesgoFinalizado.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaReporteCuestionario.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaConfimracionGenerica.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaAgregarNota.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.PanelSuperpuestoAccion.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.PanelSuperpuestoPregunta.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaGestionUsuarios.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaCargarRiesgo.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaCargoObjeto.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaCargoAccion.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.PanelInventario.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.PanelRiesgoUbicacion.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaCargarPregunta.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaCuestiInvenMapa.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaElijoRiesgo.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaErrorGenerica.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaInventario.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.PanelPreguntaAccion.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaGestionSucursales.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaCuestionario.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaLogin.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.Resources.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaMapaRiesgo.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaMenuPricipal.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaSeleccionReportesYControl.resources
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.vbproj.GenerateResource.Cache
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.exe
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.xml
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.pdb
+C:\Users\Nova\Desktop\SOFTWARE\SIGPTASK\SIGPTASK\obj\x86\Debug\SIGPTASK.VentanaReporteInventario.resources
